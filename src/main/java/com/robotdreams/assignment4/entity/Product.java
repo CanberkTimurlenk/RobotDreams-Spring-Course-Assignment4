@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 import javax.annotation.processing.Generated;
 
-@Table(name = "products")
+@Table(name = "Products")
 @Entity
 public class Product {
 
